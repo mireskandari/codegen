@@ -1,0 +1,37 @@
+asttokens==2.4.1
+contourpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_041uwyxdzo/croot/contourpy_1700583585236/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+decorator==5.1.1
+executing==2.1.0
+fonttools @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_60c8ux4mkl/croot/fonttools_1713551354374/work
+ipython==8.27.0
+jedi==0.19.1
+Jinja2==3.1.4
+jsonpickle==3.3.0
+kiwisolver @ file:///Users/cbousseau/work/recipes/ci_py311/kiwisolver_1677925326358/work
+MarkupSafe==2.1.5
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+networkx @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_70xddlxyrl/croot/networkx_1720002492248/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp311-cp311-macosx_11_0_arm64.whl#sha256=3d90dd3382cff7becb2384f73058a8e72b81c697e8bb77f1c69a82caca5b0c57
+owlready2==0.46
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81ri4yfpjw/croot/packaging_1720101866878/work
+parso==0.8.4
+pexpect==4.9.0
+pillow @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_617xe_y58w/croot/pillow_1721059447446/work
+prompt_toolkit==3.0.47
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pydeps==1.12.20
+Pygments==2.18.0
+pyparsing @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_8a270krrj3/croot/pyparsing_1725041637835/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+pyvis==0.3.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data==0.6.3
+stdlib-list==0.10.0
+tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4w03z48br/croot/tornado_1718740114858/work
+traitlets==5.14.3
+typing_extensions==4.12.2
+unicodedata2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a3epjto7gs/croot/unicodedata2_1713212955584/work
+wcwidth==0.2.13

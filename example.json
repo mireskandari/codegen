@@ -1,0 +1,309 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "os"
+        },
+        {
+            "id": "database.app"
+        },
+        {
+            "id": "sys"
+        },
+        {
+            "id": "click"
+        },
+        {
+            "id": "flask"
+        },
+        {
+            "id": "flask_sqlalchemy"
+        },
+        {
+            "id": "flask_wtf"
+        },
+        {
+            "id": "wtforms"
+        },
+        {
+            "id": "wtforms.validators"
+        },
+        {
+            "id": "flask_ckeditor"
+        },
+        {
+            "id": "form.forms"
+        },
+        {
+            "id": "flask_wtf.file"
+        },
+        {
+            "id": "form.app"
+        },
+        {
+            "id": "uuid"
+        },
+        {
+            "id": "flask_dropzone"
+        },
+        {
+            "id": "flask_wtf.csrf"
+        },
+        {
+            "id": "forms"
+        },
+        {
+            "id": "time"
+        },
+        {
+            "id": "cache.app"
+        },
+        {
+            "id": "flask_caching"
+        },
+        {
+            "id": "flask_debugtoolbar"
+        },
+        {
+            "id": "template.app"
+        },
+        {
+            "id": "http.app"
+        },
+        {
+            "id": "jinja2.utils"
+        },
+        {
+            "id": "urlparse"
+        },
+        {
+            "id": "jinja2"
+        },
+        {
+            "id": "urllib.parse"
+        },
+        {
+            "id": "markupsafe"
+        },
+        {
+            "id": "hello.app"
+        },
+        {
+            "id": "assets.app"
+        },
+        {
+            "id": "flask_assets"
+        },
+        {
+            "id": "email.app"
+        },
+        {
+            "id": "threading"
+        },
+        {
+            "id": "sendgrid"
+        },
+        {
+            "id": "sendgrid.helpers.mail"
+        },
+        {
+            "id": "flask_mail"
+        }
+    ],
+    "links": [
+        {
+            "source": "os",
+            "target": "database.app"
+        },
+        {
+            "source": "os",
+            "target": "form.app"
+        },
+        {
+            "source": "os",
+            "target": "template.app"
+        },
+        {
+            "source": "os",
+            "target": "http.app"
+        },
+        {
+            "source": "os",
+            "target": "email.app"
+        },
+        {
+            "source": "sys",
+            "target": "database.app"
+        },
+        {
+            "source": "click",
+            "target": "database.app"
+        },
+        {
+            "source": "click",
+            "target": "hello.app"
+        },
+        {
+            "source": "flask",
+            "target": "database.app"
+        },
+        {
+            "source": "flask",
+            "target": "form.app"
+        },
+        {
+            "source": "flask",
+            "target": "cache.app"
+        },
+        {
+            "source": "flask",
+            "target": "template.app"
+        },
+        {
+            "source": "flask",
+            "target": "http.app"
+        },
+        {
+            "source": "flask",
+            "target": "hello.app"
+        },
+        {
+            "source": "flask",
+            "target": "assets.app"
+        },
+        {
+            "source": "flask",
+            "target": "email.app"
+        },
+        {
+            "source": "flask_sqlalchemy",
+            "target": "database.app"
+        },
+        {
+            "source": "flask_wtf",
+            "target": "database.app"
+        },
+        {
+            "source": "flask_wtf",
+            "target": "form.forms"
+        },
+        {
+            "source": "flask_wtf",
+            "target": "email.app"
+        },
+        {
+            "source": "wtforms",
+            "target": "database.app"
+        },
+        {
+            "source": "wtforms",
+            "target": "form.forms"
+        },
+        {
+            "source": "wtforms",
+            "target": "form.app"
+        },
+        {
+            "source": "wtforms",
+            "target": "email.app"
+        },
+        {
+            "source": "wtforms.validators",
+            "target": "database.app"
+        },
+        {
+            "source": "wtforms.validators",
+            "target": "form.forms"
+        },
+        {
+            "source": "wtforms.validators",
+            "target": "email.app"
+        },
+        {
+            "source": "flask_ckeditor",
+            "target": "form.forms"
+        },
+        {
+            "source": "flask_ckeditor",
+            "target": "form.app"
+        },
+        {
+            "source": "flask_ckeditor",
+            "target": "assets.app"
+        },
+        {
+            "source": "flask_wtf.file",
+            "target": "form.forms"
+        },
+        {
+            "source": "uuid",
+            "target": "form.app"
+        },
+        {
+            "source": "flask_dropzone",
+            "target": "form.app"
+        },
+        {
+            "source": "flask_wtf.csrf",
+            "target": "form.app"
+        },
+        {
+            "source": "forms",
+            "target": "form.app"
+        },
+        {
+            "source": "time",
+            "target": "cache.app"
+        },
+        {
+            "source": "flask_caching",
+            "target": "cache.app"
+        },
+        {
+            "source": "flask_debugtoolbar",
+            "target": "cache.app"
+        },
+        {
+            "source": "jinja2.utils",
+            "target": "http.app"
+        },
+        {
+            "source": "urlparse",
+            "target": "http.app"
+        },
+        {
+            "source": "jinja2",
+            "target": "http.app"
+        },
+        {
+            "source": "urllib.parse",
+            "target": "http.app"
+        },
+        {
+            "source": "markupsafe",
+            "target": "http.app"
+        },
+        {
+            "source": "flask_assets",
+            "target": "assets.app"
+        },
+        {
+            "source": "threading",
+            "target": "email.app"
+        },
+        {
+            "source": "sendgrid",
+            "target": "email.app"
+        },
+        {
+            "source": "sendgrid.helpers.mail",
+            "target": "email.app"
+        },
+        {
+            "source": "flask_mail",
+            "target": "email.app"
+        }
+    ]
+}
